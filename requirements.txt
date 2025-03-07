@@ -9,3 +9,4 @@ Pillow
 duckduckgo-search
 google-generativeai
 langchain_google_genai
+opencv-python-headless
