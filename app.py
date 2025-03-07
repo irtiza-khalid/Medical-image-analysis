@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 import pydicom
 import numpy as np
